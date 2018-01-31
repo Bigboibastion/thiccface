@@ -12,7 +12,7 @@ void setup() {
 // the loop function runs over and over again until power down or reset
 void loop() {
 	if (enemy_in_sight) {
-		´xX_DESTROY_Xx;
+		´xX_AWSOMEDESTROY_Xx;
   }
 	else {
 		find(enemy);
